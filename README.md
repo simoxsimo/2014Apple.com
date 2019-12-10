@@ -1,4 +1,3 @@
-## Project Name
 <h1 align="center">[2014] Apple Homepage</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
