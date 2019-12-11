@@ -10,6 +10,7 @@ body {
 .flexContainerRow1 {
   display: flex;
   height: 878px;
+  overflow: hidden;
 }
 
 #mainImgLayout {
