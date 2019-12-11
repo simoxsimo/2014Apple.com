@@ -21,7 +21,7 @@
 
 ## 🏠 [Homepage](https://github.com/simoxsimo/2014Apple.com)
 
-## ⭐️ [Live demo](https://rawcdn.githack.com/simoxsimo/2014Apple.com/28ef582b88e583f0abd0772335510a7ea3792bf4/index.html)
+## ⭐️ [Live Link](https://simoxsimo.github.io/2014Apple.com/)
 
 ## Screenshot
 ![screencapture-file-C-Users-BnadaM-Desktop-2014Apple-com-github-io-index-html-2019-12-10-21_15_32](https://user-images.githubusercontent.com/57480558/70569783-80e6b580-1b92-11ea-8461-e51a030df8e1.png)
