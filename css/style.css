@@ -72,6 +72,9 @@ nav div {
   flex-wrap: wrap;
   background: white;
   border-radius: 5px;
+  color: #6e6e6e;
+  font-size: 0.8334em;
+  line-height: 1.2;
 }
 
 nav,
@@ -193,12 +196,6 @@ input:focus {
 
 #mainText3:hover {
   background-position: 0 32px;
-}
-
-#footerContent {
-  color: #6e6e6e;
-  font-size: 0.8334em;
-  line-height: 1.2;
 }
 
 #footerContent a {
